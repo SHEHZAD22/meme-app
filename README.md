@@ -1,5 +1,5 @@
 # meme-app
-A simple meme android app 
+A simple meme android app with a single activity
 
 # Features
 - Sharing option
